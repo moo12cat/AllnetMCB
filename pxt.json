@@ -1,0 +1,10 @@
+{
+  "name": "allnet",
+  "description": "All-in-one mesh networking + radio extension for micro:bit V2",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "shims.d.ts"
+  ],
+  "public": false
+}
